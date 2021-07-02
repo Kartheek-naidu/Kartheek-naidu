@@ -1,9 +1,9 @@
 > **dns**
-<p>Enables you to manage**DNS**zones within Azure DNS. These zones are hosted on Azure's name servers to which you can delegate the zone from the parent domain.<p>
+<p>Enables you to manage ***DNS*** zones within Azure DNS. These zones are hosted on Azure's name servers to which you can delegate the zone from the parent domain.<p>
 
 
 **Bastion Host**
-<p>Azure `Bastion` is provisioned directly in your Virtual Network (VNet) and supports all VMs in your Virtual Network (VNet) using SSL without any exposure through public IP addresses.<p>
+<p>Azure ***Bastion*** is provisioned directly in your Virtual Network (VNet) and supports all VMs in your Virtual Network (VNet) using SSL without any exposure through public IP addresses.<p>
 
 **vnet**
 <p>Azure `Virtual Network` (VNet) is the fundamental building block for your private network in Azure. VNet enables many types of Azure resources, such as Azure Virtual Machines (VM), to securely communicate with each other, the internet, and on-premises networks. VNet is similar to a traditional network that you'd operate in your own data center, but brings with it additional benefits of Azure's infrastructure such as scale, availability, and isolation.<p>
